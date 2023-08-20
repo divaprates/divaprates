@@ -23,8 +23,12 @@
 <br>
 
 ## Status GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divaprates&layout=compact&langs_count=6)
-
+<div >
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=divaprates&layout=compact&langs_count=6" alt="top langs"/>
+  <img height=160 src="https://github-readme-stats-salesp07.vercel.app/api?username=divaprates&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img height=160 src="https://streak-stats.demolab.com/?user=divaprates&count_private=true&theme=default&border_radius=10" alt="streak stats"/>
+  
+</div>
 
 ## Contato
 <div> 
@@ -33,4 +37,3 @@
 
 <br><br>
 
-![snake gif](https://github.com/divaprates/divaprates/blob/output/github-contribution-grid-snake.svg)
