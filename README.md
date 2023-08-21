@@ -1,10 +1,10 @@
 # 🌎 Olá, mundo! 
 
-Nerd, que gosta de animes - fã de One Piece, doramas e tudo que é da Disney...
-Apaixonada por programação e desafios de lógica desde que conheci algoritmos!
-Estudando e aprendendo sempre! 
-Tentando me tornar a melhor desenvolvedora Java - Angular que eu posso!
-
+<p> Nerd, que gosta de animes - fã de One Piece, doramas e super-heróis... </p>
+<p> Apaixonada por programação e desafios de lógica desde que conheci algoritmos! </p>
+<p> Estudando e aprendendo sempre! </p>
+<p> Tentando me tornar a melhor desenvolvedora Java - Angular que eu posso! </p>
+<br>
 
 - 📌 Desenvolvedora Full-Stack
 - 🌱 Trabalhando e aprendendo com **Java** e **Angular**
