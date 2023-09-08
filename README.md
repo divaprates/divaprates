@@ -27,8 +27,6 @@
 
 ## 
 
-<br>
-
 ## Status GitHub
 <div >
   <img height=170 src="https://github-readme-stats-salesp07.vercel.app/api?username=divaprates&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10" alt="readme stats"/>
