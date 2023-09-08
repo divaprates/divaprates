@@ -13,18 +13,16 @@
 
 <br>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <img align="center" alt="diva-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="diva-Java" height="30" width="30" src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png">
+  <img align="center" alt="diva-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
   <img align="center" alt="diva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="diva-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="diva-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="diva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="diva-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  
-  <br>
-  <br>
-  <img align="center" alt="diva-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="diva-Java" height="30" width="30" src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png">
-  <img align="center" alt="diva-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="diva-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">  
 </div>
 
 ## 
@@ -36,6 +34,11 @@
   <img height=170 src="https://github-readme-stats-salesp07.vercel.app/api?username=divaprates&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10" alt="readme stats"/>
   <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=divaprates&layout=compact&langs_count=6" alt="top langs"/>
   <img height=160 src="https://streak-stats.demolab.com/?user=divaprates&count_private=true&theme=default&border_radius=10" alt="streak stats"/>
+  
+</div>
+<div>
+  
+  ![](https://api.visitorbadge.io/api/VisitorHit?user=divaprates&repo=divaprates&count)
   
 </div>
 
