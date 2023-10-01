@@ -27,7 +27,14 @@
   <img align="center" alt="diva-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">  
 </div>
 
-## 
+<br>
+
+## Contato
+<div> 
+  <a href="https://www.linkedin.com/in/diva-p/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<br>
 
 ## Status GitHub
 <div >
@@ -37,13 +44,15 @@
   
 </div>
 
-<div>
+<br>
 
   ## Troféus
    
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divaprates&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=-1" alt="divaprates" /></a> 
 
-</div>
+<br>
+
+##
 
 <div>
   
@@ -51,10 +60,4 @@
   
 </div>
 
-## Contato
-<div> 
-  <a href="https://www.linkedin.com/in/diva-p/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<br><br>
-
+<br>
