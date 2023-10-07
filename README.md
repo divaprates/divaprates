@@ -14,9 +14,10 @@
 <br>
 
 <div style="display: inline_block">
-  <img align="center" alt="diva-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="diva-Java" height="30" width="30" src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png">
-  <img align="center" alt="diva-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SpringBoot" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
+  <img align="center" alt="Quarkus" height="30" width="30" src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png">
 
   <img align="center" alt="diva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="diva-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
