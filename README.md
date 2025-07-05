@@ -6,10 +6,10 @@
 <p> Tentando me tornar a melhor desenvolvedora Java - Angular que eu posso! </p>
 <br>
 
-- 📌 Desenvolvedora Full-Stack
-- 🌱 Trabalhando e aprendendo com **Java** e **Angular**
-- 📖 Engenharia da Computação
-- 💭 Apaixonada por desafios de lógica e programação
+-  📌  Desenvolvedora Full-Stack
+-  🌱  Trabalhando e aprendendo com **Java** e **Angular**
+-  📖  Engenharia da Computação
+-  💭  Apaixonada por desafios de lógica e programação
 
 <br>
 
